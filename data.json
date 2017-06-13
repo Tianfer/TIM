@@ -1,0 +1,426 @@
+{
+	"message": {
+		"title": "消息",
+		"messages": [
+			{
+				"who": "失了智",
+				"avatar": "dog.png",
+				"content": [
+					{
+						"from": 1,
+						"content": "你好",
+						"time": "11:11"
+					},
+					{
+						"from": 1,
+						"content": "测试",
+						"time": "11:11"
+					},
+					{
+						"from": 2,
+						"content": "测试你个大头鬼",
+						"time": "12:12"
+					}
+				],
+				"type": "person"
+			},
+			{
+				"who": " 不了了之。",
+				"avatar": "1.jpg",
+				"content": [
+					{
+						"from": 1,
+						"content": "最近怎么样",
+						"time": "昨天"
+					},
+					{
+						"from": 2,
+						"content": "还不错，你呢？",
+						"time": "昨天"
+					},
+					{
+						"from": 1,
+						"content": "很好啊",
+						"time": "昨天"
+					}
+				],
+				"type": "person"
+			},
+			{
+				"who": "付星星",
+				"avatar": "2.jpg",
+				"content": [
+					{
+						"from": 1,
+						"content": "看看这张图片",
+						"time": "前天"
+					},
+					{
+						"from": 2,
+						"content": "<img src='avatar/4.jpg'>",
+						"time": "前天"
+					},
+					{
+						"from": 1,
+						"content": "还可以",
+						"time": "前天"
+					}
+				],
+				"type": "person"
+			}
+		],
+		"more": {
+			"type": 0,
+			"content": [
+				{
+					"type": 1,
+					"content": "发起多人聊天"
+				},
+				{
+					"type": 2,
+					"content": "加好友"
+				},
+				{
+					"type": 3,
+					"content": "扫一扫"
+				},
+				{
+					"type": 4,
+					"content": "发送到电脑"
+				}
+			]
+		}
+	},
+	"relation": {
+		"top": [
+			{
+				"name": "特别关心",
+				"inner": []
+			},
+			{
+				"name": "常用群聊",
+				"inner": "0"
+			}
+		],
+		"center": [
+			{
+				"name": "我的好友",
+				"inner": [
+					{
+						"name": "失了智",
+						"avatar": "dog.png",
+						"statu": "[电脑在线]",
+						"info": {
+							"sign": "不能说的秘密",
+							"name": "失了智",
+							"avatar": "dog.png",
+							"inner": [
+								{
+									"type": "账号",
+									"content": "123456"
+								},
+								{
+									"type": "昵称",
+									"content": "失了智"
+								},
+								{
+									"type": "空间",
+									"content": "失了智的空间",
+									"right": true
+								},
+								{
+									"type": "备注",
+									"content": "未填写",
+									"right": true
+								},
+								{
+									"type": "分组",
+									"content": "我的好友",
+									"right": true
+								}
+							],
+							"more": [
+								{
+									"type": "故乡",
+									"content": "都柏林"
+								}
+							],
+							"message": {
+								"who": "失了智",
+								"avatar": "dog.png",
+								"content": [
+									{
+										"from": 1,
+										"content": "你好",
+										"time": "11:11"
+									},
+									{
+										"from": 1,
+										"content": "测试",
+										"time": "11:11"
+									},
+									{
+										"from": 2,
+										"content": "测试你个大头鬼",
+										"time": "12:12"
+									}
+								]
+							}
+						}	
+					},
+					{
+						"name": " 不了了之。",
+						"avatar": "1.jpg",
+						"statu": "[离线请留言]",
+						"info": {
+							"sign": "      坑爹的...",
+							"name": " 不了了之。",
+							"avatar": "1.jpg",
+							"inner": [
+								{
+									"type": "账号",
+									"content": "111111"
+								},
+								{
+									"type": "昵称",
+									"content": " 不了了之。"
+								},
+								{
+									"type": "空间",
+									"content": " 不了了之。的空间",
+									"right": true
+								},
+								{
+									"type": "备注",
+									"content": "未填写",
+									"right": true
+								},
+								{
+									"type": "分组",
+									"content": "我的好友",
+									"right": true
+								}
+							],
+							"more": [
+								{
+									"type": "故乡",
+									"content": "中国 台湾"
+								},
+								{
+									"type": "学校",
+									"content": "天朝中学"
+								}
+							],
+							"message": {
+								"who": " 不了了之。",
+								"avatar": "1.jpg",
+								"content": [
+									{
+										"from": 1,
+										"content": "最近怎么样",
+										"time": "11:11"
+									},
+									{
+										"from": 1,
+										"content": "还不错，你呢？",
+										"time": "11:11"
+									},
+									{
+										"from": 2,
+										"content": "很好啊",
+										"time": "12:12"
+									}
+								]
+							}
+						}
+					},
+					{
+						"name": "付星星",
+						"avatar": "2.jpg",
+						"statu": "[离线]",
+						"info": {
+							"sign": "",
+							"name": "付星星",
+							"avatar": "2.jpg",
+							"inner": [
+								{
+									"type": "账号",
+									"content": "654321"
+								},
+								{
+									"type": "昵称",
+									"content": "付星星"
+								},
+								{
+									"type": "空间",
+									"content": "付星星的空间",
+									"right": true
+								},
+								{
+									"type": "备注",
+									"content": "未填写",
+									"right": true
+								},
+								{
+									"type": "分组",
+									"content": "我的好友",
+									"right": true
+								}
+							],
+							"more": [
+								{
+									"type": "个人",
+									"content": "7月7日(阴历)"
+								}
+							],
+							"message": {
+								"who": "付星星",
+								"avatar": "2.jpg",
+								"content": [
+									{
+										"from": 1,
+										"content": "看看这张图片",
+										"time": "11:11"
+									},
+									{
+										"from": 1,
+										"content": "<img src='avatar/4.jpg'>",
+										"time": "11:11"
+									},
+									{
+										"from": 2,
+										"content": "还可以",
+										"time": "12:12"
+									}
+								]
+							}
+						}
+					},
+					{
+						"name": "jklujkl",
+						"avatar": "3.jpg",
+						"statu": "[离线]"
+					}
+				]
+			},
+			{
+				"name": "朋友",
+				"inner": [
+					{
+						"name": "湫",
+						"avatar": "4.jpg",
+						"statu": "[WiFi在线]",
+						"type": 1
+					}
+				]
+			},
+			{
+				"name": "家人",
+				"inner": [
+					{
+						"name": "猛龙过江",
+						"avatar": "5.jpg",
+						"statu": "[4G在线]",
+						"type": 1
+					},
+					{
+						"name": "翩若惊鸿",
+						"avatar": "6.jpg",
+						"statu": "[离线]",
+						"type": 0
+					}
+				]
+			},
+			{
+				"name": "同学",
+				"inner": []
+			}
+		],
+		"bottom": [
+			{
+				"name": "手机通讯录",
+				"inner": "未启用"
+			},
+			{
+				"name": "我的设备",
+				"inner": [
+					{
+						"name": "我的电脑",
+						"statu": "[离线]",
+						"type": "0"
+					},
+					{
+						"name": "发现新设备",
+						"statu": "",
+						"type": 1
+					}
+				]
+			}
+		]
+	},
+	"myself": {
+		"myself": true,
+		"name": "月光边境",
+		"avatar": "dog.png",
+		"outer": {
+			"avatar": "dog.png",
+			"name": "月光边境",
+			"username": "123456789"
+		},
+		"inner": [
+			{
+				"type": "账号",
+				"content": "123456789"
+			},
+			{
+				"type": "个性签名",
+				"content": "hello world",
+				"right": true
+			},
+			{
+				"type": "昵称",
+				"content": "月光边境",
+				"right": true
+			},
+			{
+				"type": "空间",
+				"content": "月光边境的空间",
+				"right": true
+			}
+		],
+		"more": [
+			{
+				"type": "性别",
+				"content": "男"
+			},
+			{
+				"type": "生日",
+				"content": "2017-1-1"
+			},
+			{
+				"type": "职业",
+				"content": "未填写"
+			},
+			{
+				"type": "公司",
+				"content": "未填写"
+			},
+			{
+				"type": "学校",
+				"content": "未填写"
+			},
+			{
+				"type": "地区",
+				"content": "未填写"
+			},
+			{
+				"type": "故乡",
+				"content": "中国"
+			},
+			{
+				"type": "邮箱",
+				"content": "未填写"
+			}
+		]
+	}
+}
